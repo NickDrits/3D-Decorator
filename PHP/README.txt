@@ -1,0 +1,1 @@
+these .php files must be located at C:\xampp\htdocs\Unity\3d_Decorators.
